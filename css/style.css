@@ -162,38 +162,40 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .background-head {
-    margin-top: 100px;
-    background-color: #312F30;
-    height: 543px;
-    margin-left: -229px;
+    
 }
 
 .head4 {
-    margin-left: 229px;
+    margin-top: 100px;
+    height: 543px;
+    margin-left: -229px;
+    background-color: #312F30;
+    width: 1600px;
     display: block;
 }
 
 .head4-h2 {
+    margin-left: 1009px;
     padding-top: 165px;
-    margin-left: 780px;
     font-size: 44px;
     font-weight: 500px;
 }
 
 .head4-img {
+    margin-left: 229px;
     width: 549px;
     height: 499px;
     float: left;
 }
 
 .head4-text {
-    margin-left: 780px;
+    margin-left: 1009px;
     padding-top: 24px;
 }
 
 .head4-orange {
     color:#F6762C;
-    margin-left: 780px;
+    margin-left: 1009px;
     padding-top: 13px;
     
 }
@@ -204,7 +206,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 49px;
     border-radius: 5px;
     margin-top: 42px;
-    margin-left: 780px;
+    margin-left: 1009px;
 }
 
 .head5 {
@@ -229,7 +231,13 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 40px;
 }
 
+.head5-center {
+    display: flex;
+    align-items: center;
+}
+
 .head5-right {
+    margin-left: 50px;
     float: right;
     align-items: center;
 }
