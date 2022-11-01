@@ -1,0 +1,296 @@
+/*https://www.figma.com/file/KxCWs96YwuTKnMh8LhY5mE/Burger-Landing-page-Dark-Mode-~2000-4000?node-id=0%3A1*/
+
+body {
+    background-color: #1C1C1C;
+    color: white;
+    background-image: url(../img/IGrzIxlfue1.png);
+    background-repeat:no-repeat;
+}
+
+.wrapper {
+    margin-left: 229px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    border: 0; }
+  
+  *, *:before, *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box; }
+  
+:focus, :active {
+    outline: none; }
+  
+a:focus, a:active {
+    outline: none; }
+  
+nav, footer, header, aside {
+    display: block; }
+  
+html, body {
+    height: 100%;
+    width: 100%;
+    font-size: 100%;
+    line-height: 1;
+    font-size: 14px;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%; }
+  
+input, button, textarea {
+    font-family: inherit; }
+  
+input::-ms-clear {
+    display: none; }
+  
+button {
+    cursor: pointer; }
+  
+button::-moz-focus-inner {
+    padding: 0;
+    border: 0; }
+  
+a, a:visited {
+    text-decoration: none; }
+  
+a:hover {
+    text-decoration: none; }
+  
+ul li {
+    list-style: none; }
+  
+img {
+    vertical-align: top; }
+  
+h1, h2, h3, h4, h5, h6 {
+    font-size: inherit;
+    font-weight: inherit; }
+
+.head1 {
+    
+} 
+
+.list-head1 {
+    margin-top: 43px;
+    display: flex;
+    align-items: center;
+}
+
+.list-h5 {
+    margin-left: 28px;
+    font-size: 15px;
+}
+
+.knopka {
+    background-color: #F6762C;
+    width: 169px;
+    height: 49px;
+    border-radius: 5px;
+    margin-left: 233px;
+}
+
+.list-h5-knopka {
+    text-align: center;
+    padding-top:15px;
+    font-size: 16px;
+}
+
+.img-list {
+    margin-right: 290px;
+    width: 100px;
+    height: 100px;
+}
+
+.head2 {
+    margin-top: 168px;
+}
+
+.head2-p {
+    font-size: 14px;
+    font-style: medium;
+}
+
+.head2-h1 {
+    font-size: 57.33px
+}
+
+.head2-p-2 {
+    padding-top: 37px;
+}
+
+.knopka2 {
+    background-color: #F6762C;
+    width: 169px;
+    height: 49px;
+    border-radius: 5px;
+    margin-top: 42px;
+}
+
+.head3 {
+    margin-top: 380px;
+    display: flex;
+}
+
+.head3-1 {
+    width: 262px;
+    height: 323px;
+    background-color: #312F30;
+    margin-left: 31px;
+    border-radius: 10px;
+}
+
+.head3-img {
+    border-top-right-radius: 10px;
+    border-top-left-radius:10px;
+    width: 262px;
+    height: 175px;
+}
+
+.head3-p-zagolovok {
+    font-size: 20px;
+    text-align: center;
+    font-weight:500;
+    padding-top: 28px;
+}
+
+.h3-p-text {
+    padding-top: 13px;
+    text-align: center;
+}
+
+.background-head {
+    margin-top: 100px;
+    background-color: #312F30;
+    height: 543px;
+    margin-left: -229px;
+}
+
+.head4 {
+    margin-left: 229px;
+    display: block;
+}
+
+.head4-h2 {
+    padding-top: 165px;
+    margin-left: 780px;
+    font-size: 44px;
+    font-weight: 500px;
+}
+
+.head4-img {
+    width: 549px;
+    height: 499px;
+    float: left;
+}
+
+.head4-text {
+    margin-left: 780px;
+    padding-top: 24px;
+}
+
+.head4-orange {
+    color:#F6762C;
+    margin-left: 780px;
+    padding-top: 13px;
+    
+}
+
+.knopka4 {
+    background-color: #F6762C;
+    width: 169px;
+    height: 49px;
+    border-radius: 5px;
+    margin-top: 42px;
+    margin-left: 780px;
+}
+
+.head5 {
+    margin-top:115px;
+    
+}
+
+.head5-menu1 {
+    margin-left: 118px;
+    margin-top: 150px;
+}
+
+.head5-logo2 {
+    padding-left: 150px;
+    margin-right: 500px;
+    margin-top:175px ;
+}
+
+.head5-text {
+    margin-right: 351px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.head5-right {
+    float: right;
+    align-items: center;
+}
+
+.head5-h3 {
+    font-size: 24px;
+    font-weight:500;
+    padding-left: 70px;
+    margin-top: 40px;
+}
+
+.head6 {
+    margin-left: -229px;
+    height: 170px;
+    width: 1600px;
+    background-color: #312F30;
+    margin-top: 203px;
+    padding-top: 62px;
+    
+}
+
+.head6-h2 {
+    font-size: 40px;
+    font-weight: 500;
+    margin-left: 229px;display: inline;
+}
+
+.knopka6 {
+    float: right;
+    margin-right: 325px;
+    background-color: #F6762C;
+    width: 100px;
+    height: 49px;
+    border-radius: 5px;
+}
+
+.footer {
+    margin-top: 126px;
+    display: flex;
+}
+
+.footer1 {
+    margin-top: 100px;
+}
+
+.footer-logo {
+    width: 132px;
+    height: 132px;
+    margin-left :-40px;
+}
+
+.footer-text {
+    margin-top: 10px;
+}
+
+.footer-h3 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.footer2 {
+    margin-left: 170px;
+    margin-top: 188px;
+}
